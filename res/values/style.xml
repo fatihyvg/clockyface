@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="theme" parent="android:Theme.Holo">
+        <item name="android:actionBarStyle">@style/TRT</item>
+        <item name="android:titleTextStyle">@style/title</item>
+    </style>
+    <style name="TRT" parent="android:Widget.Holo.Light.ActionBar">
+        <item name="android:background">#4B0082</item>
+    </style>
+    <style name="title" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Clocky</string>
+    <string name="onetit">CL</string>
+    <string name="endtit">CKY</string>
+    <string name="app_id">472314686255600</string>
+    <string name="time">Time</string>
+    <string name="alarm">Add Alarm</string>
+    <string name="share">Post</string>
+    <string name="hinttitle">Whats On Your Mind?</string>
+</resources>
